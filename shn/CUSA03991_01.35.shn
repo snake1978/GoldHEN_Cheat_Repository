@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dying Light Following The Enhanced Edition" Moder="Snake" Cusa="CUSA03991" Version="01.35" Process="eboot.bin">
+  <Genres Name="Action" />
+  <Genres Name="Shooter" />
+  <Items />
+  <Cheat Text="Infinite Health">
+    <Cheatline>
+      <Offset>7FC5C790</Offset>
+      <Section>0</Section>
+      <ValueOn>C7-83-34-12-00-00-00-00-C8-42-E9-98-A0-FF-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>C5682F</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-5C-5F-00-7F-90-90-90</ValueOn>
+      <ValueOff>C5-FA-11-83-34-12-00-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Endurance (For Fight)">
+    <Cheatline>
+      <Offset>7FC5C7C0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-10-E9-3A-66-13-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D92DFF</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-BC-99-EC-7E</ValueOn>
+      <ValueOff>C5-FA-11-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Breathe (For Run)">
+    <Cheatline>
+      <Offset>7FC5C7F0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-10-E9-86-68-12-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D8307B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-70-97-ED-7E</ValueOn>
+      <ValueOff>C5-FA-11-43-10</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite/Dupe Items (Need 2/Disable after you have enough)">
+    <Cheatline>
+      <Offset>760058</Offset>
+      <Section>0</Section>
+      <ValueOn>45-01-37</ValueOn>
+      <ValueOff>45-89-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Items (Disable B4 Buy/Create Weapons)">
+    <Cheatline>
+      <Offset>760058</Offset>
+      <Section>0</Section>
+      <ValueOn>45-89-3F</ValueOn>
+      <ValueOff>45-89-37</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Ammo/No Reload/Arrows/Throwables">
+    <Cheatline>
+      <Offset>7FC5C8E0</Offset>
+      <Section>0</Section>
+      <ValueOn>41-89-C6-45-8B-37-E9-70-37-B0-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>760055</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-86-C8-4F-7F-90</ValueOn>
+      <ValueOff>41-89-C6-45-89-37</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5C880</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-88-DE-73-11-81-44-8B-39-E9-AB-74-11-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D73D30</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-4B-8B-EE-7E-90-90-90-90</ValueOn>
+      <ValueOff>0F-88-34-FF-FF-FF-44-89-39</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Melee Durability">
+    <Cheatline>
+      <Offset>7FC5C840</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-4B-04-E9-36-3C-B0-80</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>76047B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-C0-C3-4F-7F</ValueOn>
+      <ValueOff>C5-FA-11-4B-04</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite UV Flashlight">
+    <Cheatline>
+      <Offset>7FC5C920</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-F8-2E-C8-C5-FA-10-0F-E9-66-B7-0C-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D2808B</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-48-F3-7E-90-90-90</ValueOn>
+      <ValueOff>C5-F8-2E-C8-C5-FA-11-0F</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Grappling Hook Stamina">
+    <Cheatline>
+      <Offset>7FC5C900</Offset>
+      <Section>0</Section>
+      <ValueOn>C4-C1-7A-10-46-40-E9-1F-7F-1C-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>E24824</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-D7-80-E3-7E-90</ValueOn>
+      <ValueOff>C4-C1-7A-11-46-40</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite Camouflage">
+    <Cheatline>
+      <Offset>7FC5C8A0</Offset>
+      <Section>0</Section>
+      <ValueOn>C5-FA-10-43-14-E9-78-1E-12-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D7E71D</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-7E-E1-ED-7E</ValueOn>
+      <ValueOff>C5-FA-11-43-14</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level All Skill Points On Gain">
+    <Cheatline>
+      <Offset>7FC5C820</Offset>
+      <Section>0</Section>
+      <ValueOn>45-84-E4-C7-00-FF-C9-9A-3B-E9-CC-93-07-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>CD5BF4</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-27-6C-F8-7E-90</ValueOn>
+      <ValueOff>45-84-E4-48-89-08</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max/Infinite Money On Gain Or Buy">
+    <Cheatline>
+      <Offset>7FC5C860</Offset>
+      <Section>0</Section>
+      <ValueOn>0F-4E-D1-C7-47-3C-FF-C9-9A-3B-E9-62-68-11-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D730CB</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-90-97-EE-7E-90</ValueOn>
+      <ValueOff>0F-4E-D1-89-57-3C</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>7FC5C8C0</Offset>
+      <Section>0</Section>
+      <ValueOn>44-29-F8-C7-47-3C-FF-C9-9A-3B-E9-5B-6A-11-81</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <Offset>D73324</Offset>
+      <Section>0</Section>
+      <ValueOn>E9-97-95-EE-7E-90</ValueOn>
+      <ValueOff>44-29-F8-89-47-3C</ValueOff>
+    </Cheatline>
+  </Cheat>
+</Trainer>
